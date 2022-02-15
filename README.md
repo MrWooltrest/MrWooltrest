@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MrWooltrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&count_private&show_icons=true)](https://github.com/MrWooltrest)
+[![MrWooltrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true)](https://github.com/MrWooltrest)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrWooltrest&repo=MrWooltrest.github.io&show_owner&theme=github_dark)](https://github.com/MrWooltrest)
