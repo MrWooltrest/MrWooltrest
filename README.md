@@ -16,7 +16,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My English is not good :)
 
-### Other accounts
+### Other links
 | <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" align="center"> | <img width="50" src="https://gitlab.com/uploads/-/system/project/avatar/278964/logo-extra-whitespace.png" alt="Twitter" align="center"> |
 |:---:|:---:|
 |[Twitter](https://twitter.com/MrWooltrest)|[GitLab](https://gitlab.com/MrWooltrest)|
