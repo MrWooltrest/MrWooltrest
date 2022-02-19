@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+<img width="" src="https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true" alt="MrWooltrest's GitHub stats" align="center"> 
+
+<!--
 [![MrWooltrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/MrWooltrest)
+-->
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrWooltrest&repo=MrWooltrest.github.io&show_owner&theme=github_dark&hide_border=true)](https://github.com/MrWooltrest)
@@ -16,6 +20,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My current monitor is "square" with a 5:4 aspect ratio
 
+<div align="center">
+
 <details>
 <summary>Other links</summary>
 
@@ -26,6 +32,8 @@
 </details>
 
 </div>
+
+<div align="left">
 
 <!--
 ### Other links
