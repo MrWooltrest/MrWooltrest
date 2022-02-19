@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<img width="" src="https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true" alt="MrWooltrest's GitHub stats" align="center"> 
+<img width="" src="https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true" alt="MrWooltrest's GitHub stats" align="center">
+
+<!--
+<img width="" src="https://github-readme-stats.vercel.app/api/pin/?username=MrWooltrest&repo=MrWooltrest.github.io&show_owner&theme=github_dark&hide_border=true" alt="My blog" align="center">  
+-->
 
 <!--
 [![MrWooltrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/MrWooltrest)
