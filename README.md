@@ -16,10 +16,23 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My current monitor is "square" with a 5:4 aspect ratio
 
+<details>
+<summary>Other links.</summary>
+
+| <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" align="center"> | <img width="55" src="https://gitlab.com/uploads/-/system/project/avatar/278964/logo-extra-whitespace.png" alt="GitLab" align="center"> | <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Weblate_logo.svg" alt="Weblate" align="center">
+|:---:|:---:|:---:|
+|[Twitter](https://twitter.com/MrWooltrest)|[GitLab](https://gitlab.com/MrWooltrest)| [Weblate](https://hosted.weblate.org/user/MrWooltrest/)
+
+</details>
+
+</div>
+
+<!--
 ### Other links
 | <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" align="center"> | <img width="55" src="https://gitlab.com/uploads/-/system/project/avatar/278964/logo-extra-whitespace.png" alt="GitLab" align="center"> | <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Weblate_logo.svg" alt="Weblate" align="center">
 |:---:|:---:|:---:|
 |[Twitter](https://twitter.com/MrWooltrest)|[GitLab](https://gitlab.com/MrWooltrest)| [Weblate](https://hosted.weblate.org/user/MrWooltrest/)
+-->
 
 <!--
 - 🔭 I’m currently working on ...
