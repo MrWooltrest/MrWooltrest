@@ -3,11 +3,11 @@
 [![MrWooltrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/MrWooltrest)
 
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrWooltrest&repo=MrWooltrest.github.io&show_owner&theme=github_dark)](https://github.com/MrWooltrest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrWooltrest&repo=MrWooltrest.github.io&show_owner&theme=github_dark&hide_border=true)](https://github.com/MrWooltrest)
 -->
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWooltrest&theme=github_dark)](https://github.com/MrWooltrest)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWooltrest&theme=github_dark&hide_border=true)](https://github.com/MrWooltrest)
 -->
 
 <!--
