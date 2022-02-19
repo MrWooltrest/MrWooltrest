@@ -20,8 +20,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My current monitor is "square" with a 5:4 aspect ratio
 
-<div align="center">
-
 <details>
 <summary>Other links</summary>
 
@@ -32,8 +30,6 @@
 </details>
 
 </div>
-
-<div align="left">
 
 <!--
 ### Other links
