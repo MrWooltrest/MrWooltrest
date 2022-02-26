@@ -27,7 +27,7 @@
 <!--
 - 🌱 I’m currently ~~learning~~ thinking about learning Java, Rust and C++ *(I just can't choose where to start and find the time to do it)*
 -->
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Java, Kotlin, Python, Rust
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My current monitor is "square" with a 5:4 aspect ratio
 
