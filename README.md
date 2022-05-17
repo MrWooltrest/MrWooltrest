@@ -4,9 +4,11 @@
   <img width="" src="/github.metrics.svg" alt="MrWooltrest's GitHub metrics" align="center">
 </a>
 
+<!--
 <a href="https://github.com/MrWooltrest">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true" alt="MrWooltrest's GitHub stats" align="center">
 </a>
+-->
 
 <!--
 <img width="" src="https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true" alt="MrWooltrest's GitHub stats" align="center">
