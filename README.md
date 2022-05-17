@@ -40,9 +40,9 @@
 <details>
 <summary>Other links</summary>
 
-| <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" align="center"> | <img width="55" src="GitLab-logo.png" alt="GitLab" align="center"> | <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Weblate_logo.svg" alt="Weblate" align="center">
-|:---:|:---:|:---:|
-|[Twitter](https://twitter.com/MrWooltrest)|[GitLab](https://gitlab.com/MrWooltrest)| [Weblate](https://hosted.weblate.org/user/MrWooltrest/)
+| <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" align="center"> | <img width="55" src="GitLab-logo.png" alt="GitLab" align="center"> | <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Weblate_logo.svg" alt="Weblate" align="center"> | <img width="50" src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/png/codeberg-logo_icon_blue-64x64.png" alt="Weblate" align="center">
+|:---:|:---:|:---:|:---:|
+| [Twitter](https://twitter.com/MrWooltrest) | [GitLab](https://gitlab.com/MrWooltrest) | [Weblate](https://hosted.weblate.org/user/MrWooltrest/) | [Codeberg](https://codeberg.org/MrWooltrest)
 
 </details>
 
