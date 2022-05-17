@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          filename: metrics.classic.svg
+          filename: github.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: MrWooltrest
@@ -23,7 +23,7 @@ jobs:
         name: Current year calendar
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.calendar.svg
+          filename: github.metrics.calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
