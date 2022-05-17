@@ -20,11 +20,11 @@ jobs:
           base: header, repositories
           config_timezone: Europe/Kiev
           plugin_lines: yes
-        name: Current year calendar
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github.metrics.calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
+        #name: Current year calendar
+      #- uses: lowlighter/metrics@latest
+        #with:
+          #filename: github.metrics.calendar.svg
+          #token: ${{ secrets.METRICS_TOKEN }}
+          #base: ""
+          #plugin_calendar: yes
 
