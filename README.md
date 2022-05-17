@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <a href="https://github.com/MrWooltrest">
+  <img width="" src="/metrics.classic.svg" alt="MrWooltrest's GitHub stats" align="center">
+</a>
+
+<a href="https://github.com/MrWooltrest">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=MrWooltrest&theme=github_dark&show_icons=true&hide_border=true" alt="MrWooltrest's GitHub stats" align="center">
 </a>
 
