@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/MrWooltrest">
-  <img width="" src="metrics/github.metrics.svg" alt="MrWooltrest's GitHub metrics" align="center">
+  <img width="" src="github.metrics.svg" alt="MrWooltrest's GitHub metrics" align="center">
 </a>
 
 <!--
