@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/MrWooltrest">
-  <img width="" src="/github.metrics.svg" alt="MrWooltrest's GitHub metrics" align="center">
+  <img width="" src="metrics/github.metrics.svg" alt="MrWooltrest's GitHub metrics" align="center">
 </a>
 
 <!--
@@ -30,17 +30,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWooltrest&theme=github_dark&hide_border=true)](https://github.com/MrWooltrest)
 -->
 
-<!--
-- 🌱 I’m currently ~~learning~~ thinking about learning Java, Rust and C++ *(I just can't choose where to start and find the time to do it)*
--->
-- 🌱 I’m currently learning Android Development (custom roms, kernels, device trees)
+- 🌱 I’m currently learning Android Development (kernels, device trees)
 - 😄 Pronouns: he/him
+<!--
 - ⚡ Fun fact: My current monitor is "square" with a 5:4 aspect ratio
+-->
 
 <details>
 <summary>Other links</summary>
 
-| <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" align="center"> | <img width="55" src="GitLab-logo.png" alt="GitLab" align="center"> | <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Weblate_logo.svg" alt="Weblate" align="center"> | <img width="50" src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/png/codeberg-logo_icon_blue-64x64.png" alt="Weblate" align="center">
+| <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" align="center"> | <img width="55" src="img/GitLab-logo.png" alt="GitLab" align="center"> | <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Weblate_logo.svg" alt="Weblate" align="center"> | <img width="50" src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/png/codeberg-logo_icon_blue-64x64.png" alt="Weblate" align="center">
 |:---:|:---:|:---:|:---:|
 | [Twitter](https://twitter.com/MrWooltrest) | [GitLab](https://gitlab.com/MrWooltrest) | [Weblate](https://hosted.weblate.org/user/MrWooltrest/) | [Codeberg](https://codeberg.org/MrWooltrest)
 
