@@ -1,8 +1,10 @@
 ## Hi there 👋
 
+<!--
 <a href="https://github.com/MrWooltrest">
   <img width="" src="github.metrics.svg" alt="MrWooltrest's GitHub metrics" align="center">
 </a>
+-->
 
 <!--
 <a href="https://github.com/MrWooltrest">
