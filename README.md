@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWooltrest&theme=github_dark&hide_border=true)](https://github.com/MrWooltrest)
 -->
 
-- 🌱 I’m currently learning Android? Maybe...
+- 🌱 I’m currently learning something...
 - 😄 Pronouns: he/him
 <!--
 - ⚡ Fun fact: My current monitor is "square" with a 5:4 aspect ratio
